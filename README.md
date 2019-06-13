@@ -25,7 +25,7 @@ If you don't have git or node, you can install they here [Git](https://git-scm.c
     npm run serve
 
 ## 🔧 Build using
-[Vue CLI 3](https://cli.vuejs.org/)
+ - [Vue CLI 3](https://cli.vuejs.org/)
 
 ## 📋 License
 MIT License - see the [LICENSE.md](LICENSE) file for details
